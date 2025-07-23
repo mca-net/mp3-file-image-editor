@@ -34,6 +34,13 @@ Just drag, drop, and edit — no bloat, no fuss.
 
 ---
 
+## 👀USSAGE!
+
+- Simply download the files and navigate to the folder containing them using your cmd. Then run the programm with *java -jar Mp3CoverViewer.jar*
+- Thats it.😜
+
+---
+
 ## 🛠️ Tech Stack
 
 - ⚙️ Built with [insert tech, e.g., Electron / PyQt / etc.]
