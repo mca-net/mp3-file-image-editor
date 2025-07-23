@@ -1,0 +1,2 @@
+Main-Class: Mp3CoverViewer
+Class-Path: mp3agic-0.9.1.jar
